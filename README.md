@@ -25,7 +25,7 @@
 | Project | Description |
 |--------|-------------|
 | [imagecrypto](https://github.com/nidhi-bhatt/imagecrypto) | Python package for image encryption using ECC + AES/ChaCha |
-| [depression-detection-using-audio-signals](https://github.com/nidhi-bhatt/depression-detection-using-audio-signals) | ML model to classify depressive speech using audio features |
+| [Depression-Detection-Using-Speech-Signals](https://github.com/nidhi-bhatt/depression-detection-using-audio-signals) | ML model to classify depressive speech using audio features |
 | [nidhi-bhatt.github.io](https://github.com/nidhi-bhatt/nidhi-bhatt.github.io) | Personal portfolio site (HTML/CSS/JS) |
 
 ---
