@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi Bhatt</h1>
-<h3 align="center">Aspiring Machine Learning & Cybersecurity Engineer</h3>
+<!-- <h3 align="center">Aspiring Machine Learning Engineer</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nidhi-bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-bhatt" />
@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering  
-- 🎯 Focus areas: **Machine Learning**, **Cybersecurity**, **Mobile Development**
+- 🎯 Focus areas: **Machine Learning**, **Security**, **Mobile Development**
 - 🛠 I love building practical apps, solving problems, and exploring tech through projects
 
 ---
@@ -51,10 +51,7 @@
 
 - 🌐 [Portfolio](https://nidhi-bhatt.github.io/)
 - 📄 [LinkedIn](https://www.linkedin.com/in/nidhi-bhatt/)
-- 📧 Email: *your-email@example.com*
+- 📧 Email: *nidhibhattwork@gmail.com*
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhi-bhatt&theme=dracula&no-frame=true&column=7" />
-</p>
