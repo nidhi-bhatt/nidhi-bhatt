@@ -33,7 +33,7 @@
 ### 📫 Let's Connect!
 
 - 🌐 [Portfolio](https://nidhi-bhatt.github.io/)
-- 📄 [LinkedIn](https://www.linkedin.com/in/nidhi-bhatt/)
+- 📄 [LinkedIn](https://www.linkedin.com/in/nidhi-bhatt-beruf/)
 - 📧 Email: *nidhibhattwork@gmail.com*
 
 ---
