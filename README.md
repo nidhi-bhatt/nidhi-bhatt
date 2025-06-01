@@ -5,7 +5,6 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering  
-- 🎯 Focus areas: **Machine Learning**, **Security**, **Mobile Development**
 - 🛠 I love building practical apps, solving problems, and exploring tech through projects
 
 ---
@@ -27,17 +26,7 @@
 |--------|-------------|
 | [imagecrypto](https://github.com/nidhi-bhatt/imagecrypto) | Python package for image encryption using ECC + AES/ChaCha |
 | [depression-detection-using-audio-signals](https://github.com/nidhi-bhatt/depression-detection-using-audio-signals) | ML model to classify depressive speech using audio features |
-| [ai-flutter-object-detection-app](https://github.com/nidhi-bhatt/ai-flutter-object-detection-app) | Flutter app integrating AI model for object detection |
-| [TalkMate](https://github.com/nidhi-bhatt/TalkMate) | A smart Discord bot|
 | [nidhi-bhatt.github.io](https://github.com/nidhi-bhatt/nidhi-bhatt.github.io) | Personal portfolio site (HTML/CSS/JS) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-bhatt&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
