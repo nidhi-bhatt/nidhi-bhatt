@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Bhatt</h1>
 <!-- <h3 align="center">Aspiring Machine Learning Engineer</h3> -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhi-bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-bhatt" />
-</p>
 
 ---
 
@@ -41,7 +38,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhi-bhatt&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-bhatt&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
