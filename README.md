@@ -2,8 +2,6 @@
 <!-- <h3 align="center">Aspiring Machine Learning Engineer</h3> -->
 
 
----
-
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering  
