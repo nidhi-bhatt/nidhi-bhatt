@@ -1,40 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nidhi Bhatt</h1>
-<!-- <h3 align="center">Aspiring Machine Learning Engineer</h3> -->
+# Nidhi Bhatt
 
-
-### 👩‍💻 About Me
-
-- 🎓 B.Tech in Computer Science and Engineering  
-- 🛠 I love building practical apps, solving problems, and exploring tech through projects
+CS grad student at TU Dresden. I work on applied AI/ML — mostly speech, NLP, and research-driven projects. I've co-authored 4+ papers across IEEE, Springer, and arXiv.
 
 ---
 
-### 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
-
----
-
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [imagecrypto](https://github.com/nidhi-bhatt/imagecrypto) | Python package for image encryption using ECC + AES/ChaCha |
-| [Depression-Detection-Using-Speech-Signals](https://github.com/nidhi-bhatt/depression-detection-using-audio-signals) | ML model to classify depressive speech using audio features |
-| [nidhi-bhatt.github.io](https://github.com/nidhi-bhatt/nidhi-bhatt.github.io) | Personal portfolio site (HTML/CSS/JS) |
+| [CivicVoice Bhutan](https://github.com/nidhi-bhatt/civicvoice_bhutan) | Voice AI assistant for Bhutan's citizen services — Whisper ASR, RAG, LLM intent classification. [Live demo](https://huggingface.co/spaces/nibhatt10/civicvoice-bhutan) |
+| [imagecrypto](https://github.com/nidhi-bhatt/imagecrypto) | Python package for secure image encryption using AES-GCM, ChaCha20, and ECC. On [PyPI](https://pypi.org/project/imagecrypto/) |
+| [Depression Detection from Speech](https://github.com/nidhi-bhatt/Depression-Detection-Using-Speech-Signals) | Voting ensemble ML model for depression detection from audio signals |
+| [Glucose Prediction](https://github.com/nidhi-bhatt/civicvoice_bhutan) | Explainable ML for personalized blood glucose forecasting in T1/T2 diabetes |
 
 ---
 
-### 📫 Let's Connect!
+### Tech
 
-- 🌐 [Portfolio](https://nidhi-bhatt.github.io/)
-- 📄 [LinkedIn](https://www.linkedin.com/in/nidhi-bhatt-beruf/)
-- 📧 Email: *nidhibhattwork@gmail.com*
+Python · PyTorch · Scikit-learn · LangChain · Whisper · HuggingFace · SQL · C++
 
 ---
 
+### Connect
+
+[Portfolio](https://nidhi-bhatt.github.io/) · [LinkedIn](https://www.linkedin.com/in/nidhi-bhatt-beruf/) · [Google Scholar](https://scholar.google.com) · nidhibhattwork@gmail.com
